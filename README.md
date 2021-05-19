@@ -1,2 +1,2 @@
 # Django_practice
-A repository to practice web dev with Django framework
+A repository to practice web development with Django framework
